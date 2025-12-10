@@ -167,7 +167,7 @@
 
         /* Hero Section */
         .hero {
-            background: linear-gradient(rgba(248, 248, 247, 0.5), rgb(240, 236, 222)), url('assets/back-head.jpeg') no-repeat bottom center/cover;
+            background: linear-gradient(rgba(248, 248, 247, 0.5), rgb(240, 236, 222)), url('back-head.jpeg') no-repeat bottom center/cover;
             height: 80vh;
             display: flex;
             align-items: center;
@@ -751,4 +751,5 @@
                 display: block; /* Tampilkan tombol hamburger */
                 margin-left: auto; /* Geser ke kanan */
             }
+
         }
